@@ -229,7 +229,6 @@ update_repo() {
     yum makecache
     echo "YUM仓库源更新完成。"
 }
-#版权©www.007idc.cn 现在开始全开源 属零零七云计算（重庆）有限责任公司所有
 
 # 检测操作系统并设置日志文件路径
 log_file_path=""
